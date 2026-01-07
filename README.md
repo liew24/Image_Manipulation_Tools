@@ -16,6 +16,6 @@ Step to run the program
 7. Run this to start the backend<br>
    uvicorn server:app --reload --host 127.0.0.1 --port 8000
 
-8. Ctrl + click on the link to diret to browser or type "http://127.0.0.1:8000" at browser<br>
+8. Ctrl + click on the link to diret to browser or type "http://127.0.0.1:8000/docs" at browser<br>
    
-9. Open VS code and run "home.html" using live server.
+10. Open VS code and run "home.html" using live server.
