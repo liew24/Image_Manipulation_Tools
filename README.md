@@ -1,5 +1,3 @@
-# V.A.L.O. – Visual Adjustment Layer Operator
-
 ## 🚀 How to Run the Program
 
 Follow the steps below to run both the backend and frontend of the project.
